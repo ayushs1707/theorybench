@@ -5,8 +5,8 @@
 ## Project Members
 | Name | Role |
 |------|------|
-| Andrew Blasko | Project Member |
-| Ayush Sharma | Project Member |
+| Ayush Sharma| Project Member |
+| Andrew Blasko| Project Member |
 | Jahleel Martinez Fleming | Project Member |
 
 ---
