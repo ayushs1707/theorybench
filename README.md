@@ -10,6 +10,7 @@
 | Jahleel Martinez Fleming | Project Member |
 
 ---
+> 📁 This repository contains my personal copy of the TheoryBench project, developed collaboratively with Andrew Blasko and Jahleel Martinez Fleming. It is intended for portfolio and academic use, with full credit to all contributors.
 
 ## Overview
 TheoryBench is a real-time MIDI analysis and visualization platform built to help users understand music theory as they perform. The system captures MIDI input, detects notes, intervals, and chords, and provides live visual feedback through an interactive piano interface. Recordings can be stored, managed, and analyzed through a cloud-enabled backend.
@@ -72,6 +73,17 @@ TheoryBench is designed for students, educators, and musicians who want interact
 
 ---
 
+## My Contributions
+
+As part of the TheoryBench development team, I contributed to:
+
+- Designing and implementing the Analyzer Service using the Javalin framework  
+- Developing the chord detection and difficulty scoring logic  
+- Structuring the PostgreSQL database for efficient MIDI file storage and retrieval  
+- Testing and debugging the client-server interaction  
+- Documenting system architecture and workflow for academic presentation
+
+
 ## Acknowledgments
 Special thanks to Professor Kapolka for his guidance and support throughout this project.
 
@@ -83,6 +95,6 @@ Special thanks to Professor Kapolka for his guidance and support throughout this
 | Overall Development | completed |
 | Database Integration | Completed |
 | Analyzer Microservice | Completed |
-| User Interface Enhancements | In progress |
+| User Interface Enhancements | Completed |
 | Future Features | Additional analytics and visualizations planned |
 
