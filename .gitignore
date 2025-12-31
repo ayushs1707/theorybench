@@ -1,0 +1,7 @@
+# ==== Build folders ====
+analizer-service/main/target/
+client-app/target/
+
+# ==== Config files with credentials ====
+analizer-service/main/src/main/resources/application.properties
+client-app/src/main/resources/application.properties
