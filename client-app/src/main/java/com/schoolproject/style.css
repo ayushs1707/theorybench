@@ -1,0 +1,33 @@
+/* === General Scene Background === */
+.root {
+    -fx-background-color: linear-gradient(to bottom right, #2c3e50, #4ca1af);
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+/* === Title Styling === */
+.title-text {
+    -fx-font-size: 28px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+/* === Button Styling === */
+.menu-button {
+    -fx-font-size: 18px;
+    -fx-background-color: #ffffffcc;
+    -fx-text-fill: #2c3e50;
+    -fx-background-radius: 8;
+    -fx-padding: 10 25;
+    -fx-cursor: hand;
+    -fx-border-color: #ffffff99;
+    -fx-border-radius: 8;
+}
+
+.menu-button:hover {
+    -fx-background-color: #f1f1f1;
+    -fx-text-fill: #000;
+}
+
+.menu-button:pressed {
+    -fx-background-color: #dcdcdc;
+}
